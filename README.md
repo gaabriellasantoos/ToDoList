@@ -24,7 +24,7 @@ PHP: Linguagem de programação utilizada para o desenvolvimento do backend.
 - CSS: Folhas de estilo em cascata para estilizar a interface do usuário.
 - Google Fonts: Biblioteca de fontes utilizada para estilizar o texto da página.
 
-
 # Fontes Utilizadas
 As fontes utilizadas neste projeto são da família "Ubuntu", obtidas através do Google Fonts.
 # Autores
+Gabriella, Monolito com PHP
