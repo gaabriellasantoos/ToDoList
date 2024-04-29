@@ -2,7 +2,7 @@
 
 # e-commerce
 [e-commerce]()
-[Descrição]  ()
+[Descrição]()
 [Introdução]()
 [Funcionalidades]()
 [Tecnologiasutilizadas]() 
