@@ -26,4 +26,5 @@ PHP: Linguagem de programação utilizada para o desenvolvimento do backend.
 
 
 # Fontes Utilizadas
+As fontes utilizadas neste projeto são da família "Ubuntu", obtidas através do Google Fonts.
 # Autores
